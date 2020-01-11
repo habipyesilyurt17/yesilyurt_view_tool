@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+YesilyurtViewTool::Renderer.copyright('Habip Yeişlyurt', 'All rights reserved')
+```
 
 ## Development
 
